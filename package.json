@@ -1,0 +1,16 @@
+{
+  "name": "2019_s3-2_bc",
+  "version": "1.0.0",
+  "description": "s3 prog acces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "b colantonio",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.586.0",
+    "uuid": "^3.3.3"
+  }
+}
